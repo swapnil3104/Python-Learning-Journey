@@ -1,0 +1,1 @@
+print("I Name is swapnil","My age is 21","I am from India")
